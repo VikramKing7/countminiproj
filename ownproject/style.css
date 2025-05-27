@@ -8,7 +8,7 @@
 body{
     cursor :pointer;
     color:white;
-    background:url("images/purple.jpg") ;
+    background-color:linear-gradient(violet,red) ;
     background-size: cover;
 }
 h1{
